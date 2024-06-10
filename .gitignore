@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+*.iml
+*.iws
+/.idea/
+# Project exclude paths
+/out/
+# Project exclude paths
+/target/
